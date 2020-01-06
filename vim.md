@@ -33,6 +33,11 @@ Getting started
 {: .-shortcuts}
 
 ### Navigating
+| Shortcut  | Description        |
+| ---       | ---                |
+| `gd`      | Jump to definition |
+
+### Navigating
 
 | Shortcut            | Description       |
 | ---                 | ---               |
